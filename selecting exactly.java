@@ -9,7 +9,7 @@ public class RandomLines {
         for (int i = 0; i < 100; i++) {
             int choice = rand.nextInt(5);
             switch (choice) {
-                case 0:
+                
                     lines.add("System.out.println(\"Hello, world!\");");
                     break;
                 case 1:
