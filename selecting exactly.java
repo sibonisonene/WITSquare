@@ -11,9 +11,7 @@ public class RandomLines {
                     lines.add("System.out.printo, world!\");");
                     break;
                 case 1:
-                    lines.add("int x = " + rand.nextInt(100
-                    
-                case 2:
+                    lines.add("int x 
                     lines.add("double y = " + rand.nextDouble() + ";");
                     break;
                 case 3:
