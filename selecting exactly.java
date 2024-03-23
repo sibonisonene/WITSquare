@@ -1,5 +1,5 @@
 
-import java.util.C
+import java
 public class RandomLines {
     public static void main(String[] args) {
         
