@@ -8,7 +8,7 @@ public class RandomLines {
             int choice = rand.nextInt(5);
             
                 
-                    lines.add("System.out.println(\"Hello, world!\");");
+                    lines.add("System.out.printo, world!\");");
                     break;
                 case 1:
                     lines.add("int x = " + rand.nextInt(100) + ";");
