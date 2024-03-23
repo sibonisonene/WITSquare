@@ -12,7 +12,7 @@ public class RandomLines {
                     break;
                 case 1:
                     lines.add("int x = " + rand.nextInt(100
-                    break;
+                    
                 case 2:
                     lines.add("double y = " + rand.nextDouble() + ";");
                     break;
