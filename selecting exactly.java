@@ -1,5 +1,5 @@
 
-import java.util.Collections;
+import java.util.Collect
 
 public class RandomLines {
     public static void main(String[] args) {
