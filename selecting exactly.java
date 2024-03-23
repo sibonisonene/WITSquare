@@ -19,7 +19,7 @@ public class RandomLines {
                     break;
                 case 3:
                     lines.add("String s = \"" + generateRandomString(rand) + "\";");
-                    break;
+                    
                 case 4:
                     lines.add("boolean b = " + rand.nextBoolean() + ";");
                     break;
