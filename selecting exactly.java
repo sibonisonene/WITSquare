@@ -1,6 +1,5 @@
 
-import java.util.Collect
-
+import java.util.C
 public class RandomLines {
     public static void main(String[] args) {
         
